@@ -7,6 +7,6 @@ def array_with_two_elements
 end
 
 def first_element
-  array=["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  array[0]
+  my_first_element=["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  my_first_element[0]
 end
