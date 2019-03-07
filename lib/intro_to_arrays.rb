@@ -8,5 +8,5 @@ end
 
 def first_element
   array=["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  array.first
+  array[0]
 end
